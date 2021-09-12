@@ -1,0 +1,9 @@
+main: io.github.zaratath.BcordCraft
+name: BcordCraft
+version: '1.0'
+description: The Game
+api-version: 1.17
+load: STARTUP
+author: Zaratath
+prefix: BcordCraft
+depend: [CommandAPI]
